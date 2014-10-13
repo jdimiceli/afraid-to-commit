@@ -8,10 +8,22 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
-PyCon Ireland in Dublin, 14th October 2013
+PyCon Ireland in Dublin, 13th October 2014
 ------------------------------------------
 
-* Nadja Deininger
+* Laura Duggan https://github.com/labhra
+* Conor McGee <mcgeeco@tcd.ie> https://github.com/mcgeeco
+* Nadja Deininger https://github.com/machinelady
+* Andrew McCarthy
+* Brian McDonnell <https://github.com/brianmcdonnell/>
+* Brendan Cahill (https://github.com/brencahill/)
+* Adam Dickey
+* Paul O'Grady (Twitter: @paul_ogrady; GitHub: paulogrady)
+* Jenny DiMiceli - https://github.com/jdimiceli
+* Stephen Kerr
+* Wayne Tong
+* Vinicius Mayer (viniciusmayer@gmail.com) https://github.com/viniciusmayer
+* Dori Czapari
 
 PyCon UK in Coventry, 20th September 2014
 -----------------------------------------
@@ -160,6 +172,7 @@ PyCon UK in Coventry, 22nd September 2013
 * Louis Fill tkman220@yahoo.com
 * Karim Lameer https://github.com/klameer
 * John Medley <john.medley@zephirlidar.com>
+=======
 
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
@@ -170,12 +183,15 @@ DjangoCon US in Chicago, 2nd September 2013
 * Ernesto Rodriguez <ernesto@tryolabs.com> https://github.com/ernestorx @ernestorx
 * Jason Blum
 * Hayssam Hajar <hayssam.hajar@gmail.com>  github: hhajar
+* Kermit the Frog
+* Miss Piggy
+=======
 
 Cardiff Dev Workshop, 8th June 2013
 -----------------------------------
 
-* Daniel Pass <daniel.antony.pass@googlemail.com>
-* Kieran Moore
+=======
+
 * Dale Bradley
 * Howard Dickins <hdickins@gmail.com> https://github.com/hdickins
 * Robert Dragan https://github.com/rmdragan
@@ -186,6 +202,7 @@ Cardiff Dev Workshop, 8th June 2013
 * Gwen Williams https://github.com/gwenopeno
 * Daniel Pass <daniel.antony.pass@googlemail.com>
 * Bitarabe Edgar
+* Kieran Moore
 
 
 DjangoCon Europe in Warsaw, 18th May 2013
@@ -226,3 +243,7 @@ I followed the tutorial online
 * Bob Aalsma - https://github.com/BobAalsma/
 * Andy Venet - https://github.com/avenet/
 * Vathsala Achar - 22nd September, 2014
+* Gonzo
+=======
+
+
